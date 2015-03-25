@@ -3,6 +3,8 @@
 
 This is just a poc so use it at your own risk !
 
+It's first goal is to find tweet that match the track list and give them to me on IRC for practical reason.
+
 ### Get twitter authorizations
 
 * go [here](https://apps.twitter.com/)
