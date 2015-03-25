@@ -1,0 +1,11 @@
+{
+  "consumer_key": "your consumer key from Twitter",
+  "consumer_secret": "your consumer secret from Twitter",
+  "access_token_key": "your access token key from Twitter",
+  "access_token_secret": "your access token secret from Twitter",
+  "track_rules": "see track_rules section in README",
+  "irc_server": "the irc server for reivax",
+  "irc_user_to_pm": "the user you want to be contacted by reivax",
+  "irc_reivax_user_name": "reivax user name on IRC",
+  "irc_reivax_real_name": "reivax real name on IRC"
+}
